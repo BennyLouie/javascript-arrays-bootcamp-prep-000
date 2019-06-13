@@ -37,4 +37,3 @@ function removeElementFromEndOfArray(array) {
   return yetAnotherArray
 }
 
-function 
